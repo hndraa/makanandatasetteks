@@ -1,7 +1,7 @@
 
 # 📦 Dataset Pemrosesan Teks Deskripsi Makanan
 
-Proyek ini merupakan hasil dari proses ekstraksi, terjemahan, dan generasi deskripsi makanan berbasis dataset nutrisi Indonesia dan internasional. Dataset akhir disusun untuk keperluan Natural Language Processing (NLP), khususnya dalam bidang _text generation_ dan _classification_.
+Proyek ini merupakan hasil dari proses ekstraksi, terjemahan, dan generasi deskripsi makanan berbasis dataset nutrisi Indonesia dan internasional. Dataset akhir disusun untuk keperluan Natural Language Processing (NLP), khususnya dalam bidang _text generation_ dan _classification_, NER dan chatbot.
 
 ## 📁 Struktur File
 
